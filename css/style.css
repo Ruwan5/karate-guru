@@ -1,8 +1,4 @@
-/* 
-	Bonativo by TEMPLATE STOCK
-	templatestock.co @templatestock
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
+
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,400italic');
 
@@ -131,7 +127,7 @@ h1,h2,h3,h4,h5,h6{
     nav.before-color .navbar-nav>li>a{
         color:#fff;
     }
-    
+
     nav.after-color .navbar-nav>li>a{
         color:#333;
     }
@@ -142,10 +138,10 @@ h1,h2,h3,h4,h5,h6{
 
     }
     nav.before-color .nav>li{
-        border-left: 1px solid transparent;    
+        border-left: 1px solid transparent;
     }
     nav.after-color .nav>li{
-        border-left: 1px solid rgba(0,0,0,0.1);    
+        border-left: 1px solid rgba(0,0,0,0.1);
     }
 }
 .navbar-default {
@@ -423,7 +419,7 @@ TEAM CSS
     font-weight: 300;
 }
 .testimonials{
-    background: url(../images/bg-3.jpg);
+    background: url(../images/karate2.jpg);
     background-position: 50% 0;
     background-size: cover;
     background-repeat: no-repeat;
@@ -824,7 +820,7 @@ cta
 .news-content p{
     color:#999;
     font-size: 14px;
-    
+
 }
 .pager li>a, .pager li>span{
     color: #03a9f4;
